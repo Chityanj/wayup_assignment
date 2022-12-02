@@ -10,4 +10,6 @@
 ### Prints average age of all the people who survived
 - simpleavg.ipynb in this simple method is used to calculate average age of all the people who survived
 
-- pandasavg.ipynb in this pandas Library is used to calculate average age of all the people who survived 
+- pandasavg.ipynb in this pandas Library is used to calculate average age of all the people who survived
+
+#### simplecombined.py is a single program which combines both the task in one script

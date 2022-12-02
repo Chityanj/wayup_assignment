@@ -1,4 +1,7 @@
 # Assignment 
+
+#### simplecombined.py is a single program which combines both the task in one script
+
 ## Write a Python script that does the following:
 
 ### Prints a count of missing data for each column
@@ -12,4 +15,3 @@
 
 - pandasavg.ipynb in this pandas Library is used to calculate average age of all the people who survived
 
-#### simplecombined.py is a single program which combines both the task in one script
